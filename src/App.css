@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.card__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  background-color: black;
+  color: white;
+  height: 200px;
+  width: 200px;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  padding: 1em;
+}

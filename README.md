@@ -16,7 +16,7 @@ The code does not show a product goal. It is a layout prototype for a card-based
 
 ## How it's built
 
-- Vite with React 18 and plain CSS, with no router, state library or backend.
+- Vite with React and plain CSS, with no router, state library or backend.
 - The project is a single component tree. The `demosdfasdf/` folder holds a second copy of the same Vite app.
 
 ## Running it locally
